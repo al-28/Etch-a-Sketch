@@ -1,0 +1,17 @@
+div {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    flex-basis: 6%;
+}
+#container {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    flex-wrap: wrap;
+    border: none;
+}
+input {
+    text-align: center;
+    margin: auto;
+}
